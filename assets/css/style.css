@@ -1,0 +1,24 @@
+body {
+    background-color: black !important;
+    scroll-behavior: smooth;
+    font-family: 'Lato', sans-serif  !important;
+
+}
+
+hr {
+    height: 3px !important;
+    background-color: skyblue !important;
+  }
+.texto {
+    font-weight: 300;
+}
+
+.icono {
+    background-color:skyblue !important;
+}
+.contacto {
+    background-color: white !important;
+    height: 20em;
+    margin: 2em;
+}
+
